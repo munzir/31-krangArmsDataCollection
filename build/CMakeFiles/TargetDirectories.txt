@@ -1,0 +1,4 @@
+/home/munzir/30-krangArmsDataCollection/build/CMakeFiles/edit_cache.dir
+/home/munzir/30-krangArmsDataCollection/build/CMakeFiles/currentControl.run.dir
+/home/munzir/30-krangArmsDataCollection/build/CMakeFiles/rebuild_cache.dir
+/home/munzir/30-krangArmsDataCollection/build/CMakeFiles/currentControl.dir
